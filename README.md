@@ -9,4 +9,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Allan3Gomes&icon=0&color=12)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Allan3Gomes&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
