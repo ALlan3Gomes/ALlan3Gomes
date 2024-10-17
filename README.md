@@ -8,5 +8,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Allan3Gomes&icon=0&color=12)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=ALlan3Gomes&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ALlan3Gomes&label=Profile%20Views&pretty=true" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
